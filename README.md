@@ -65,6 +65,8 @@ BuildBot-Website/
 │   └── ...
 └── README.md
 
+---
+
 ## 🚀 How to Run the Project
 
 - Download or clone the repository  
